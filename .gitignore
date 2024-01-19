@@ -1,0 +1,5 @@
+# Ignore 'bak' directories
+**/bak/
+
+# Ignore .DS_Store files
+**/.DS_Store
