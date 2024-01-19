@@ -19,4 +19,3 @@ YouTube: http://youtube.com/@subethasoftware
 * **vic-20 manual games** - programs from the VIC-20 manual that I typed in. But, they are different. Did I have an earlier manual revision, or did I make these changes? (I think I may have added the stars on one of them. I used the same technique in one of my programs. Or, I saw it in this version and decided to put it in mine.)
 
 More to come...
-g
