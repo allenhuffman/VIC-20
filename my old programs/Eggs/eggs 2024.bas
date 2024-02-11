@@ -1,3 +1,4 @@
+0 rem 2024/2/11 fixed joystick
 1 print"{clear}{down*3}      eggs"
 2 print"{down*3}  by  allen huffman"
 3 print"{down*2}vic-nic news july 1983"
@@ -8,12 +9,12 @@
 20 printchr$(19);chr$(5);"score:";sc
 25 pokeb,21:pokee,81
 30 poke37154,127
-35 j=(not((peek(37151)and128)/8+(peek(37151)and60)/4))+32
+35 j=(not((peek(37152)and128)/8+(peek(37137)and60)/4))+32
 40 poke37154,255
 45 ifj=0then80
 50 pokeb,32
-55 ifj=18thenb=b-1
-60 ifj=17thenb=b+1
+55 ifj=4thenb=b-1
+60 ifj=16thenb=b+1
 65 ifb=8120thenb=b+1
 70 ifb=8141thenb=b-1
 75 pokeb,21

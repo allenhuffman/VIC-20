@@ -59,6 +59,17 @@
             <Name>\eggs.bas</Name>
             <PrgName />
             <FileType>1</FileType>
+            <IncludeInBuild>False</IncludeInBuild>
+            <Regions />
+            <Breakpoints />
+            <Bookmarks />
+            <Topmost>False</Topmost>
+            <FileOpen>True</FileOpen>
+        </SourceFile>
+        <SourceFile>
+            <Name>\eggs 2024.bas</Name>
+            <PrgName />
+            <FileType>1</FileType>
             <IncludeInBuild>True</IncludeInBuild>
             <Regions />
             <Breakpoints />

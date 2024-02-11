@@ -8,6 +8,7 @@
 80 if jo<>0 then print
 90 goto 20
 9000 poke 37154,127
-9010 jo=(not((peek(37152)and128)/8+( peek(37151)and60)/4))+32
+9010 jo=(not((peek(37152)and128)/8+(peek(37137)and60)/4))+32
+9015 rem jo=(not((peek(37152)and128)/8+(peek(37151)and60)/4))+32
 9020 poke 37154,255
 9030 return
